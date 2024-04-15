@@ -1,0 +1,15 @@
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\calcUI.dll
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\calcUI.pdb
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\automation\calcUI\calcUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\automation\calcUI\calcUI\obj\Debug\calcUI.csproj.AssemblyReference.cache
+C:\Users\user\automation\calcUI\calcUI\obj\Debug\calcUI.csproj.CoreCompileInputs.cache
+C:\Users\user\automation\calcUI\calcUI\obj\Debug\calcUI.csproj.Up2Date
+C:\Users\user\automation\calcUI\calcUI\obj\Debug\calcUI.dll
+C:\Users\user\automation\calcUI\calcUI\obj\Debug\calcUI.pdb
